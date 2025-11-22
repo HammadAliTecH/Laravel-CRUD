@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Hammad Ali",
+        "email": "hammad09th1@gmail.com",
+        "class": "09TH",
+        "age": 17
+    },
+    {
+        "name": "Ahmed Khan",
+        "email": "ahmed10th2@gmail.com",
+        "class": "10TH",
+        "age": 18
+    },
+    {
+        "name": "Usman Tariq",
+        "email": "usman11th3@gmail.com",
+        "class": "11TH",
+        "age": 19
+    },
+    {
+        "name": "Bilal Arif",
+        "email": "bilal12th4@gmail.com",
+        "class": "12TH",
+        "age": 20
+    },
+    {
+        "name": "Zain Malik",
+        "email": "zain09th5@gmail.com",
+        "class": "09TH",
+        "age": 17
+    },
+    {
+        "name": "Ali Raza",
+        "email": "aliraza10th6@gmail.com",
+        "class": "10TH",
+        "age": 18
+    },
+    {
+        "name": "Farhan Javed",
+        "email": "farhan11th7@gmail.com",
+        "class": "11TH",
+        "age": 19
+    },
+    {
+        "name": "Saad Qureshi",
+        "email": "saad12th8@gmail.com",
+        "class": "12TH",
+        "age": 20
+    },
+    {
+        "name": "Taha Imran",
+        "email": "taha09th9@gmail.com",
+        "class": "09TH",
+        "age": 17
+    },
+    {
+        "name": "Haris Mehmood",
+        "email": "haris10th10@gmail.com",
+        "class": "10TH",
+        "age": 18
+    }
+]
