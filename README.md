@@ -19,11 +19,6 @@
 <img src="pic/5.png" width="600" alt="Laravel Logo"></p>
 <p align="center">
 <img src="pic/6.png" width="600" alt="Laravel Logo"></p>
-<p align="center">
-<img src="pic/7.png" width="600" alt="Laravel Logo"></p>
-<p align="center">
-<img src="pic/8.png" width="600" alt="Laravel Logo"></p>
-<p align="center">
-<img src="pic/9.png" width="600" alt="Laravel Logo"></p>
+
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
